@@ -8,9 +8,9 @@
 |------|-------|---|
 |![Screenshot 2020-05-08 at 6 54 17 PM](https://user-images.githubusercontent.com/56549294/81429145-00e16d80-917b-11ea-8e90-b2251e8c5629.png)|![demo](https://user-images.githubusercontent.com/56549294/81428430-de9b2000-9179-11ea-9239-2cd14c5b9313.gif)|![demo](https://user-images.githubusercontent.com/56549294/81432411-7f8cd980-9180-11ea-8b2a-7c8b85a0602c.png)|
 ___
-```
-                                      LANDSCAPE SCREENS
-```
+
+>                                      LANDSCAPE SCREENS
+
 ___
 | LIGHT MODE | DARK MODE |
 |------|-------|
