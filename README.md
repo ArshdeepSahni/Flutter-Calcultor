@@ -12,8 +12,13 @@ ___
                                       LANDSCAPE SCREENS
 ```
 ___
-| LIGHT MODE [LANDSCAPE] | DARK MODE [LANDSCAPE] |
+| LIGHT MODE | DARK MODE |
 |------|-------|
-|![demolandscape](https://user-images.githubusercontent.com/56549294/81433274-ed85d080-9181-11ea-9e93-1fdc1fb95309.png)|![demolandscape2](https://user-images.githubusercontent.com/56549294/81433288-f1195780-9181-11ea-8c91-41daa8302014.png)|
+|![demolandscape2](https://user-images.githubusercontent.com/56549294/81433288-f1195780-9181-11ea-8c91-41daa8302014.png)|![demolandscape](https://user-images.githubusercontent.com/56549294/81433274-ed85d080-9181-11ea-9e93-1fdc1fb95309.png)|
 ___
 >                                             CODE WITH ❤️
+
+
+
+
+
